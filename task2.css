@@ -1,0 +1,72 @@
+ .body{
+    padding: 0px;
+    margin: 0px;
+ }
+ .bg {
+    background: url(4.jpg) no-repeat;
+    color: rgb(228, 104, 104);
+    background-size: 100% 75vh;
+    height: 40vh;
+    padding: 120px;
+    font-family: sans-serif;
+}
+
+.bg a {
+    text-decoration: none;
+    border: 1px solid rgb(226, 106, 106);
+    border-radius: 5px;
+    color: rgb(209, 102, 102);
+    padding: 8px;
+    margin-left: 550px;
+    font-family: sans-serif;
+    }
+
+.bg h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.bg p {
+    margin-bottom: 30px;
+    margin-left: 50px;
+    font-family: sans-serif;
+    
+}
+
+.par {
+    background-color: rgb(245, 119, 119);
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.secpar {
+    color: rgb(208, 88, 88);
+    padding: 10px;
+    font-family: sans-serif;
+}
+.div1{
+    background-color: rgb(208, 88, 88);
+    display: inline-block;
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    
+    }
+.div2{
+    display: inline-block;
+    background-color: white;
+    color: rgb(209, 102, 102);;
+    padding: 7px;
+    margin-left: 30px;
+    }
+.div3{
+    background-color: rgb(208, 88, 88);
+    display: inline-block;
+    padding: 7px;
+    color: white;
+    margin-left: 50px ;
+}
